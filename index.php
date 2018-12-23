@@ -398,7 +398,7 @@
 
         <!-- Google Maps -->
         <script src="assets/js/gmap.js"></script>
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCYColqjl3JW6XXTbptNuBg5i8Z8P6YkUM&callback=myMap"></script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=*********************&callback=myMap"></script>
 
         <!-- Definity JS -->
         <script src="assets/js/main.js"></script>
